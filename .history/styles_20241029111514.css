@@ -1,0 +1,35 @@
+/* importar tipografia */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 100%;
+    text-align: center;
+    padding: 120px 0;
+    background: black;
+    min-height: 100%;
+
+}
+
+h1{
+    color: aqua;
+    font-size: 50px;
+
+}
+
+h2{
+    color: aqua;
+    font-size: 50px;
+}
+
+p{
+    color: #fff;
+    font-size: 22px;
+}
+
+#cont-botones{
+    
+}

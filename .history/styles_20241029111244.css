@@ -1,0 +1,12 @@
+/* importar tipografia */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 100%;
+    text-align: center;
+    padding: 120;
+}
